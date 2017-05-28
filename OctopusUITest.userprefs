@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{FF974E8C-8EAF-45F5-A43E-2A54A9776B4B}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OctopusUITest/.gitignore">
+    <Files>
+      <File FileName="OctopusUITest/Framework/BasePage.cs" Line="36" Column="24" />
+      <File FileName="OctopusUITest/Framework/CommonComponents.cs" Line="14" Column="24" />
+      <File FileName="OctopusUITest/Pages/OurPeoplePage.cs" Line="23" Column="4" />
+      <File FileName="OctopusUITest/Tests/OurPeopleTests.cs" Line="18" Column="76" />
+      <File FileName="OctopusUITest/.gitignore" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.OctopusUITest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
