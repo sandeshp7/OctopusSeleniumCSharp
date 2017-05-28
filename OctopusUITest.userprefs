@@ -1,11 +1,10 @@
 ﻿<Properties StartupConfiguration="{FF974E8C-8EAF-45F5-A43E-2A54A9776B4B}|Unit Tests">
-  <MonoDevelop.Ide.Workbench ActiveDocument="OctopusUITest/.gitignore">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OctopusUITest/Framework/BasePage.cs">
     <Files>
       <File FileName="OctopusUITest/Framework/BasePage.cs" Line="36" Column="24" />
       <File FileName="OctopusUITest/Framework/CommonComponents.cs" Line="14" Column="24" />
       <File FileName="OctopusUITest/Pages/OurPeoplePage.cs" Line="23" Column="4" />
       <File FileName="OctopusUITest/Tests/OurPeopleTests.cs" Line="18" Column="76" />
-      <File FileName="OctopusUITest/.gitignore" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
