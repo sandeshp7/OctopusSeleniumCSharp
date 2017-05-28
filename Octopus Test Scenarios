@@ -8,19 +8,19 @@ Scenarios
 3. Verify the profile intro (Automated)
 	Click on a profile and verify if the profile intro page is displayed with correct information.
 4. Enter string and verify if search results are filtered
-	Enter 3 letters and verify if the results are filterd matching the string.
+	Enter 3 letters and verify if the results are flittered matching the string.
 5. Test the sort functionality
 	Change the Sort dropdown to 'Z-A' and verify if the results are filtered.
 	Change the Sort dropdown to 'A-Z' and verify if the results are filtered.
 6. Team checkbox
-	Select a team from the teams list and verify if the team information is displyed correctly.
+	Select a team from the teams list and verify if the team information is displayed correctly.
 7. Verify for the result count
 	Check if the result count matches with the results
 8. Search for BDM by postcode
 	Enter the postcode and verify if the results are filtered
 9. Check for Errors in developer tool console
-	Open the brower developer tool console and make sure there are no error messages.
+	Open the browser developer tool console and make sure there are no error messages.
 10. Check for console logs in developer tool console
-	Open the brower developer tool console and make sure there are no log messages.
+	Open the browser developer tool console and make sure there are no log messages.
 
 
