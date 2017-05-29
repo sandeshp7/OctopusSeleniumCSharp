@@ -13,3 +13,5 @@ TestValidPeopleSearch - Search with valid input string
 TestInvalidPeopleSearch - Search with invalid input string
 
 TestNavigateToPeopleIntroPage - Verify the profile intro
+
+Note: Specify the path of the chrome driver in beforeMethod() present in BasePage.cs before executing the test.
